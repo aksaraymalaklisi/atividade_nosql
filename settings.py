@@ -1,4 +1,3 @@
-from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 # Algumas configurações padrões foram definidas, mas informações críticas como a URI de conexão estão na .env
