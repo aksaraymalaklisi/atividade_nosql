@@ -4,4 +4,4 @@ O arquivo `example.env` contém uma .env de exemplo. Os valores padrões inserid
 Caso contrário, configure de acordo.  
 
 Por simplicidade, o código não cobre os métodos CRUD com sufixo "_many", apenas os com "_one".
-A razão para isso é o funcionamento muito similar deles. Além de que não haver nada especificando o uso desses métodos.
+A razão para isso é o funcionamento muito similar deles. Além de não haver nada especificando o uso desses métodos.
